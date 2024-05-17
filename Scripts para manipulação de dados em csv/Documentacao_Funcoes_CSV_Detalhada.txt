@@ -1,0 +1,15 @@
+
+################## Documentação Detalhada das Funções ##################
+
+1. exclusao-csv.py
+   - Funções Principais:
+     * Leitura e verificação de dados de um arquivo CSV.
+     * Filtragem de linhas com base no número de colunas e em intervalos de datas.
+     * Salvamento dos dados alterados de volta no arquivo CSV original.
+
+2. inclusao-csv.py
+   - Função 'transferir_csv':
+     - Descrição: Transfere dados de um arquivo CSV de origem para um arquivo CSV de destino.
+     - Parâmetros: Não recebe parâmetros externos, mas utiliza caminhos de arquivos internamente.
+     - Processo: Lê dados de um arquivo, conta as linhas em outro, e escreve os dados lidos no segundo arquivo.
+     - Resultado: Atualiza o arquivo de destino com novas linhas e informa o usuário sobre o sucesso da operação.
