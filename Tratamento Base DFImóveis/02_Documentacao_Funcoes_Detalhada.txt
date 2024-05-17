@@ -1,0 +1,115 @@
+
+################## Documentação Detalhada das Funções ##################
+
+
+funcao_aguas_claras:
+   - Descrição: Descreva o propósito e a funcionalidade desta função.
+   - Parâmetros: Liste os parâmetros que esta função aceita, seus tipos e uma breve descrição de cada um.
+   - Retornos: Descreva o que a função retorna após sua execução.
+   - Exceções: Liste quaisquer exceções que a função possa lançar durante sua execução.
+   - Exemplo de Uso: Forneça um exemplo simples de como esta função pode ser chamada e utilizada.
+
+
+funcao_asa_norte:
+   - Descrição: Descreva o propósito e a funcionalidade desta função.
+   - Parâmetros: Liste os parâmetros que esta função aceita, seus tipos e uma breve descrição de cada um.
+   - Retornos: Descreva o que a função retorna após sua execução.
+   - Exceções: Liste quaisquer exceções que a função possa lançar durante sua execução.
+   - Exemplo de Uso: Forneça um exemplo simples de como esta função pode ser chamada e utilizada.
+
+
+funcao_asa_sul:
+   - Descrição: Descreva o propósito e a funcionalidade desta função.
+   - Parâmetros: Liste os parâmetros que esta função aceita, seus tipos e uma breve descrição de cada um.
+   - Retornos: Descreva o que a função retorna após sua execução.
+   - Exceções: Liste quaisquer exceções que a função possa lançar durante sua execução.
+   - Exemplo de Uso: Forneça um exemplo simples de como esta função pode ser chamada e utilizada.
+
+
+funcao_guara_apt:
+   - Descrição: Descreva o propósito e a funcionalidade desta função.
+   - Parâmetros: Liste os parâmetros que esta função aceita, seus tipos e uma breve descrição de cada um.
+   - Retornos: Descreva o que a função retorna após sua execução.
+   - Exceções: Liste quaisquer exceções que a função possa lançar durante sua execução.
+   - Exemplo de Uso: Forneça um exemplo simples de como esta função pode ser chamada e utilizada.
+
+
+funcao_guara_casa:
+   - Descrição: Descreva o propósito e a funcionalidade desta função.
+   - Parâmetros: Liste os parâmetros que esta função aceita, seus tipos e uma breve descrição de cada um.
+   - Retornos: Descreva o que a função retorna após sua execução.
+   - Exceções: Liste quaisquer exceções que a função possa lançar durante sua execução.
+   - Exemplo de Uso: Forneça um exemplo simples de como esta função pode ser chamada e utilizada.
+
+
+funcao_jardim_botanico:
+   - Descrição: Descreva o propósito e a funcionalidade desta função.
+   - Parâmetros: Liste os parâmetros que esta função aceita, seus tipos e uma breve descrição de cada um.
+   - Retornos: Descreva o que a função retorna após sua execução.
+   - Exceções: Liste quaisquer exceções que a função possa lançar durante sua execução.
+   - Exemplo de Uso: Forneça um exemplo simples de como esta função pode ser chamada e utilizada.
+
+
+funcao_lago_norte:
+   - Descrição: Descreva o propósito e a funcionalidade desta função.
+   - Parâmetros: Liste os parâmetros que esta função aceita, seus tipos e uma breve descrição de cada um.
+   - Retornos: Descreva o que a função retorna após sua execução.
+   - Exceções: Liste quaisquer exceções que a função possa lançar durante sua execução.
+   - Exemplo de Uso: Forneça um exemplo simples de como esta função pode ser chamada e utilizada.
+
+
+funcao_lago_norte_luxo:
+   - Descrição: Descreva o propósito e a funcionalidade desta função.
+   - Parâmetros: Liste os parâmetros que esta função aceita, seus tipos e uma breve descrição de cada um.
+   - Retornos: Descreva o que a função retorna após sua execução.
+   - Exceções: Liste quaisquer exceções que a função possa lançar durante sua execução.
+   - Exemplo de Uso: Forneça um exemplo simples de como esta função pode ser chamada e utilizada.
+
+
+funcao_lago_sul_luxo:
+   - Descrição: Descreva o propósito e a funcionalidade desta função.
+   - Parâmetros: Liste os parâmetros que esta função aceita, seus tipos e uma breve descrição de cada um.
+   - Retornos: Descreva o que a função retorna após sua execução.
+   - Exceções: Liste quaisquer exceções que a função possa lançar durante sua execução.
+   - Exemplo de Uso: Forneça um exemplo simples de como esta função pode ser chamada e utilizada.
+
+
+funcao_lago_sul_alto_luxo:
+   - Descrição: Descreva o propósito e a funcionalidade desta função.
+   - Parâmetros: Liste os parâmetros que esta função aceita, seus tipos e uma breve descrição de cada um.
+   - Retornos: Descreva o que a função retorna após sua execução.
+   - Exceções: Liste quaisquer exceções que a função possa lançar durante sua execução.
+   - Exemplo de Uso: Forneça um exemplo simples de como esta função pode ser chamada e utilizada.
+
+
+funcao_noroeste:
+   - Descrição: Descreva o propósito e a funcionalidade desta função.
+   - Parâmetros: Liste os parâmetros que esta função aceita, seus tipos e uma breve descrição de cada um.
+   - Retornos: Descreva o que a função retorna após sua execução.
+   - Exceções: Liste quaisquer exceções que a função possa lançar durante sua execução.
+   - Exemplo de Uso: Forneça um exemplo simples de como esta função pode ser chamada e utilizada.
+
+
+funcao_plano_piloto:
+   - Descrição: Descreva o propósito e a funcionalidade desta função.
+   - Parâmetros: Liste os parâmetros que esta função aceita, seus tipos e uma breve descrição de cada um.
+   - Retornos: Descreva o que a função retorna após sua execução.
+   - Exceções: Liste quaisquer exceções que a função possa lançar durante sua execução.
+   - Exemplo de Uso: Forneça um exemplo simples de como esta função pode ser chamada e utilizada.
+
+
+funcao_sudoeste:
+   - Descrição: Descreva o propósito e a funcionalidade desta função.
+   - Parâmetros: Liste os parâmetros que esta função aceita, seus tipos e uma breve descrição de cada um.
+   - Retornos: Descreva o que a função retorna após sua execução.
+   - Exceções: Liste quaisquer exceções que a função possa lançar durante sua execução.
+   - Exemplo de Uso: Forneça um exemplo simples de como esta função pode ser chamada e utilizada.
+
+
+funcao_vicente_pires:
+   - Descrição: Descreva o propósito e a funcionalidade desta função.
+   - Parâmetros: Liste os parâmetros que esta função aceita, seus tipos e uma breve descrição de cada um.
+   - Retornos: Descreva o que a função retorna após sua execução.
+   - Exceções: Liste quaisquer exceções que a função possa lançar durante sua execução.
+   - Exemplo de Uso: Forneça um exemplo simples de como esta função pode ser chamada e utilizada.
+

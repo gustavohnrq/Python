@@ -1,0 +1,21 @@
+
+################## Descrição dos Scripts ##################
+
+1. funcao.py
+   - Funções Principais:
+     * Classificação de dados imobiliários por características como número de quartos e área útil.
+     * Agrupamento e cálculo de médias do valor por metro quadrado para diferentes grupos.
+     * Geração e organização de relatórios em arquivos Excel, com dados divididos por categorias e grupos.
+
+2. script_execucao.py
+   - Execução de múltiplas funções importadas de outro módulo, cada uma dedicada a uma região ou tipo de imóvel.
+   - As funções são chamadas sequencialmente para processar e analisar dados imobiliários para várias regiões.
+
+################## Documentação Técnica ##################
+
+O arquivo funcao.py contém funções detalhadas para processamento e análise de dados imobiliários, com foco na geração de relatórios em Excel. Cada função dentro deste arquivo provavelmente segue uma estrutura semelhante para agrupar e analisar dados, salvando os resultados em diferentes abas de um arquivo Excel.
+
+O arquivo script_execucao.py serve como um script de execução que importa e executa funções específicas do módulo funcao.py. Ele garante que as funções só sejam executadas se o script for o ponto de entrada do programa, evitando execuções indesejadas ao importar o módulo. Este script facilita a execução automatizada de análises para diferentes conjuntos de dados, otimizando o fluxo de trabalho para análises repetitivas e regulares.
+
+Ambos os arquivos utilizam bibliotecas Python padrão para manipulação de dados (como pandas) e geração de arquivos Excel (como openpyxl). Eles são parte de um sistema de análise de dados que pode ser expandido ou modificado para incluir novas regiões ou tipos de análises.
+
